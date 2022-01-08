@@ -12,27 +12,27 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'name',
+        name: 'Description',
         message: 'What is your name?'
     },
     {
         type: 'input',
-        name: 'name',
+        name: 'Installation',
         message: 'What is your name?'
     },
     {
         type: 'input',
-        name: 'name',
+        name: 'Usage',
         message: 'What is your name?'
     },
     {
         type: 'input',
-        name: 'name',
+        name: 'Contribution',
         message: 'What is your name?'
     },
     {
         type: 'input',
-        name: 'name',
+        name: 'Tests',
         message: 'What is your name?'
     },
 ];

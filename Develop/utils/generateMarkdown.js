@@ -20,11 +20,6 @@ function generateMarkdown(data) {
 -[licenses](#licenses)
 -[contribution](#contribution)
 -[test](#test)
--[username](#username)
--[profile](#profile)
-
-${response.username}
-##username:
 
     ${response.description}
 ##description:
@@ -44,11 +39,6 @@ ${response.username}
     ${response.test}
 ##test:
 
-    ${response.email}
-##email:
-
-    ${response.profile}
-##profile:
 `;
 }
 
