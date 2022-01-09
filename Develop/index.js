@@ -28,6 +28,16 @@ const questions = [
         message: 'How do you use your application?'
     },
     {
+        type: 'list',
+        name: 'licenses',
+        message: 'What are your contributions to this application?',
+        choices: [
+            "MIT [!License: MIT]",
+            "Apache 2.0 [!License: MIT]",
+            "The Unlicense [!License: MIT]",
+        ]
+    },
+    {
         type: 'input',
         name: 'contribution',
         message: 'What are your contributions to this application?'
@@ -36,6 +46,11 @@ const questions = [
         type: 'input',
         name: 'test',
         message: 'What tests do you have in place for your application?'
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'If anyone has questions how can they reach you? (Please enter your GitHub Username and an Email address!)'
     },
 ];
 
