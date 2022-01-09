@@ -22,25 +22,32 @@ function generateMarkdown(data) {
 * [Test](#test)
 * [Questions](#questions)
 
+    ##Description
     
     ${data.description}
 
-
+    ##Installation Instructions
+    
     ${data.installation}
 
-
+    ##Usage
+    
     ${data.usage}
 
-
+    ##Licenses
+    
     ${data.licenses}
 
-
+    ##Contributions
+    
     ${data.contribution}
 
-
+    ##Tests
+    
     ${data.test}
 
-
+    ##Questions
+    
     ${data.questions}
 `;
 }

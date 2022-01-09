@@ -1,27 +1,30 @@
-# read me
-  # Table of Content
-* [description](#description)
-* [installation](#installation)
-* [usage](#usage)
-* [licenses](#licenses)
-* [contribution](#contribution)
-* [test](#test)
+# readme
+# Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licenses](#licenses)
+* [Contributing](#contribution)
+* [Test](#test)
+* [Questions](#questions)
 
-    create read me
-##description:
+    
+    makes readme
 
-    download
-##installation:
 
-    answer prompts
-##usage:
+    download from repo
+
+
+    answer questions to make a readme
+
 
     undefined
-##licenses:
 
-    coder
-##contribution:
+
+    sole coder
+
 
     none
-##test:
 
+
+    undefined
