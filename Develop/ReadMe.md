@@ -8,23 +8,30 @@
 * [Test](#test)
 * [Questions](#questions)
 
+    ##Description
     
-    makes readme
+    makes readmes
 
+    ##Installation Instructions
+    
+    download
 
-    download from repo
+    ##Usage
+    
+    answer qx
 
-
-    answer questions to make a readme
-
-
+    ##Licenses
+    
     undefined
 
+    ##Contributions
+    
+    made it
 
-    sole coder
-
-
+    ##Tests
+    
     none
 
-
+    ##Questions
+    
     undefined
